@@ -1,2 +1,0 @@
-# Kisrozi
-Mbot MeTFT 
